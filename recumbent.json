@@ -1,0 +1,32 @@
+{
+    "bikes": [
+    {
+    "condition": "Used",
+    "model": "Bacchetta Cafe",
+    "description": "Red",
+    "price": "500.00",
+    "imgPath": "./images/BacchettaCafeRed.jpg"
+    },
+    {
+    "condition": "Used",
+    "model": "Garage Recumbent",
+    "description": "Black with chain protector",
+    "price": "400.00",
+    "imgPath": "./images/RecumbentGarage.png"
+    },
+    {
+    "condition": "New",
+    "model": "Stratus RX",
+    "description": "Blue",
+    "price": "2,200.00",
+    "imgPath": "./images/StratusRecumbent.jpg"
+    },
+    {
+    "condition": "Used",
+    "model": "Shield Bike",
+    "description": "Yellow and has a shield to protect you from high speed impacts with bugs",
+    "price": "800.00",
+    "imgPath": "./images/ShieldRecumbent.jpg"
+    }
+    ]
+}
