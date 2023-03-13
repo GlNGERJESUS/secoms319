@@ -1,0 +1,32 @@
+{
+    "bikes": [
+    {
+    "condition": "Used",
+    "model": "Fall Bike",
+    "description": "Bike in the fall.",
+    "price": "500.00",
+    "imgPath": "./images/FallBike.jpg"
+    },
+    {
+    "condition": "Used",
+    "model": "Giant bike",
+    "description": "Kids' bike for ages 9 - 12 years old.",
+    "price": "120.00",
+    "imgPath": "./images/SmallBike.jpg"
+    },
+    {
+    "condition": "New",
+    "model": "crawl bike",
+    "description": "Freshly grown bike.",
+    "price": "1,200.00",
+    "imgPath": "./images/CrawlBike.jpg"
+    },
+    {
+    "condition": "Used",
+    "model": "Wall Bike",
+    "description": "Obtained through ethical means.",
+    "price": "230.00",
+    "imgPath": "./images/WallBike.jpg"
+    }
+    ]
+}
